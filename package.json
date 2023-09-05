@@ -1,8 +1,13 @@
 {
-    "name": "sprite-sheet-svelte-ts",
-    "main": "./index.ts",
-    "version": "1.5.0",
-    "author": {
-        "name": "Seba9989"
-    }
+	"name": "sprite-sheet-svelte-ts",
+	"main": "./index.ts",
+	"version": "1.5.0",
+	"author": {
+		"name": "Seba9989"
+	},
+	"license": "MIT",
+	"repository": "https://github.com/seba9989/sprite-sheet-svelte-ts",
+	"peerDependencies": {
+		"svelte": ">=3"
+	}
 }
