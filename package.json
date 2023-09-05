@@ -1,0 +1,8 @@
+{
+    "name": "sprite-sheet-svelte-ts",
+    "main": "./index.ts",
+    "version": "1.5.0",
+    "author": {
+        "name": "Seba9989"
+    }
+}
